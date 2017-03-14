@@ -6,3 +6,6 @@ Double cross validation and permutation tests for 'omics datasets
 Two principle methods are required to appropriately assess megavariate data: regularization and cross validation. Both methods offer an opportunity for generalization of a model - that is, to avoid overfitting and improve predictions on unseen data.
 
 Presented within, several regularization techniques are demonstrated within a cross validation framework. Double cross-validaiton and permutation tests are also implemented.
+
+
+** NOTE: R files have not been uploaded yet!
